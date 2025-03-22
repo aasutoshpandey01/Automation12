@@ -45,5 +45,23 @@ adb devices  -->> this command we have to use to get the Id of present using dev
 
 https://code.visualstudio.com/download
 
+<<<<<<< HEAD
 ================mera hai bhai mera hai====================
+=======
+
+=================== 22_march_2025=============================================
+
+changes made done here
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> tester1
 
