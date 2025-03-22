@@ -1,0 +1,47 @@
+https://reqres.in/
+https://reqres.in/api/users?page=2
+
+https://github.com/nits709/SA2411063/blob/main/restAssured_API/API_Material.docx
+
+
+https://medium.com/identity-beyond-borders/oauth-1-0-vs-oauth-2-0-e36f8924a835
+
+nitingupta.gupta46@gmail.com
+8237292456
+
+
+
+Priti*98s12
+
+
+====================================================
+APPIUM
+
+https://github.com/appium/appium-inspector/releases/tag/v2024.9.1
+
+Appium-Inspector-2024.9.1-win-x64.exe
+
+=======================10_march_2025=================
+
+https://github.com/appium/appium/blob/master/packages/appium/sample-code/apps/ApiDemos-debug.apk
+
+https://github.com/appium/appium-uiautomator2-driver?#capabilities
+
+%ANDROID_HOME%\platform-tools
+%ANDROID_HOME%\tools
+%ANDROID_HOME%\tools\bin
+
+
+===================================12 march 2025====================================
+
+https://github.com/nits709/SA2411063/tree/appiumSA2411063
+From Trainings to everyone 09:38 PM
+https://github.com/appium/appium-uiautomator2-driver/blob/master/docs/android-mobile-gestures.md
+
+adb devices  -->> this command we have to use to get the Id of present using devices 
+
+
+====================17_marrch_2025======================
+
+https://code.visualstudio.com/download
+
